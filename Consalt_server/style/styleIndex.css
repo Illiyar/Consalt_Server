@@ -1,0 +1,42 @@
+/*.editDiv1{
+	width: 50%;
+	margin-top: auto;
+	margin-left: 25%; 
+	margin-bottom: auto;
+	border: 2px solid black;
+}*/
+body{
+	background: linear-gradient(45deg, #EECFBA, #C5DDE8);
+}
+.editDiv1{
+	width: 75%;
+	margin: auto auto;
+	padding-top: 1%;
+	/*padding-bottom: 20%;*/
+	
+}
+.container{
+	margin-top: 15%;
+	margin-bottom: 15%;
+	margin-left: 25%;
+	width: 47%;
+	box-shadow: 0 0 10px rgba(0,0,0,0.5);
+	
+}
+.container:hover{
+	margin-top: 15%;
+	margin-bottom: 15%;
+	margin-left: 25%;
+	width: 47%;
+	box-shadow: 0 0 50px rgba(0,0,0,1);
+}
+.btn-primary{
+	background: linear-gradient(45deg, #2D35D3, #03F0FF);
+
+}
+.btn-primary:hover{
+	box-shadow: 0 0 10px rgba(0,0,0,1);
+}
+#textPadding{
+	padding-top: 5%;
+}
